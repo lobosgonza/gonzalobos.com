@@ -1,0 +1,9 @@
+firebase
+
+firebase/
+
+firebase/*
+
+/firebase/firebase_config.js
+
+/src/firebase/*
