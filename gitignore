@@ -7,3 +7,5 @@ firebase/*
 /firebase/firebase_config.js
 
 /src/firebase/*
+
+firebaserc
