@@ -1,20 +1,17 @@
 .fade-out {
-    opacity: 0;
-    transition: opacity .5s ease-in-out;
+	opacity: 0;
+	transition: opacity 1s ease-in-out;
 }
 
 .fade-out-active {
-    opacity: 0;
+	opacity: 0;
 }
 
 .fade-in {
-    opacity: 1;
-    transition: opacity .5s ease-in-out;
+	opacity: 1;
+	transition: opacity 1s ease-in-out;
 }
-
-
 
 .fade-in-active {
-    opacity: 1;
+	opacity: 1;
 }
-
